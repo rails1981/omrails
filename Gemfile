@@ -4,7 +4,7 @@ gem 'rails', '3.2.13'
 gem 'jquery-rails'
 gem 'devise'
 gem 'simple_form'
-
+"ruby '1.9.2' "
 group :production do
 	gem 'pg'
 end
